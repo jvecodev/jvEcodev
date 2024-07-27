@@ -1,6 +1,6 @@
 <h1>Sobre</h1>
-👨‍💻 console.log(` Olá, eu sou o João! `)<br>
-🎓 print(' Information system student ')<br>
+<p> 👨‍💻 console.log(` Olá, eu sou o João! `)</p><br>
+<p> 🎓 print(' Information system student ')</p><br>
 
 
 
