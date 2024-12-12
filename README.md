@@ -8,8 +8,8 @@
 <h1>Redes Sociais</h1>
 <p align="left">
   <a href="https://skillicons.dev">
-      <a href="https:https://www.instagram.com/o.correajao/" target="_blank"><img img src="https://skillicons.dev/icons?i=instagram" target="_blank"></a>
-      <a href="https:https://www.linkedin.com/in/jwoliveira/" target="_blank"><img img src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a> 
+      <a href="https://www.instagram.com/o.correajao/" target="_blank"><img img src="https://skillicons.dev/icons?i=instagram" target="_blank"></a>
+      <a href="https://www.linkedin.com/in/jwoliveira/" target="_blank"><img img src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a> 
       <a href="mailto:jvitor.oliveira1803@gmail.com" target="_blank"><img img src="https://skillicons.dev/icons?i=gmail" target="_blank"></a> <br> 
   </a>
 </p>
