@@ -23,6 +23,6 @@
 <h1>Tecnologias</h1>
 <div style="display: inline_block"><br>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,py,django,javascript,java,ts,html,css" />
+    <img src="https://skillicons.dev/icons?i=nodejs,py,django,javascript,java,ts,html,css,mysql" />
   </a>
 </div>
