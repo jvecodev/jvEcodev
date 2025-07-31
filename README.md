@@ -17,8 +17,7 @@
 ![jvEcodev GitHub stats](https://github-readme-stats.vercel.app/api?username=jvEcodev&show_icons=true&theme=tokyonight)
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvEcodev&layout=donut)](https:)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvEcodev&hide_progress=true)
 
 <h1>Tecnologias</h1>
 <div style="display: inline_block"><br>
