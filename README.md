@@ -16,8 +16,7 @@
 
 ![jvEcodev GitHub stats](https://github-readme-stats.vercel.app/api?username=jvEcodev&show_icons=true&theme=tokyonight)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvEcodev&hide_progress=true)
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jvEcodev&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=highcontrast&hide_border=true" height="150" alt="languages graph"  />
 
 <h1>Tecnologias</h1>
 <div style="display: inline_block"><br>
