@@ -21,6 +21,6 @@
 <h1>Tecnologias</h1>
 <div style="display: inline_block"><br>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,py,docker,javascript,ts,mysql,react,redux,nextjs,angular" />
+    <img src="https://skillicons.dev/icons?i=nodejs,py,docker,javascript,ts,mysql,react,redux,nextjs,angular,mongodb" />
   </a>
 </div>
