@@ -1,18 +1,32 @@
-<h1>Sobre</h1>
+# Hello, I'm João Vitor!
 
-<p> 🎓 print(' Information system student ')</p><br>
+<div align="center">
 
-<h1>Redes Sociais</h1>
-<p align="left">
-  <a href="https://skillicons.dev">
-      <a href="https://www.instagram.com/o.correajao/" target="_blank"><img img src="https://skillicons.dev/icons?i=instagram" target="_blank"></a>
-      <a href="https://www.linkedin.com/in/jwoliveira/" target="_blank"><img img src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a> 
-      <a href="mailto:jvitor.oliveira1803@gmail.com" target="_blank"><img img src="https://skillicons.dev/icons?i=gmail" target="_blank"></a> <br> 
-  </a>
-</p>
-<h1>Tecnologias</h1>
-<div style="display: inline_block"><br>
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,py,docker,javascript,ts,mysql,react,redux,nextjs,angular,mongodb" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Information+Systems+Student;Software+Developer;Backend+%7C+AI+%7C+Cloud" />
+
+</div>
+
+## Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,js,ts,java,nodejs,fastapi,spring,react,nextjs,angular" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=redux,mongodb,mysql,postgres,docker,git,github,gitlab,linux,aws" />
+
+</div>
+
+#
+
+
+#### 💡 "The best way to learn is to build."
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450">
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=jwoliveira&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+
 </div>
