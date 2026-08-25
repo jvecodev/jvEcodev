@@ -1,4 +1,4 @@
-# Hello, I'm João Vitor!
+## Hello, I'm João Vitor!
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 </div>
 
-## Technologies
+### Technologies
 
 <div align="center">
 
@@ -22,6 +22,8 @@
 
 
 #### 💡 "The best way to learn is to build."
+
+<div align="center">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450">
 
