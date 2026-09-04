@@ -10,11 +10,11 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,java,nodejs,fastapi,spring,react,nextjs,angular" />
+<img src="https://skillicons.dev/icons?i=py,ts,fastapi,spring,angular,aws" />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=redux,mongodb,mysql,postgres,docker,git,github,gitlab,linux,aws" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,git,linux" />
 
 </div>
 
